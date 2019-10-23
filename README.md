@@ -1,3 +1,6 @@
+![npm](https://img.shields.io/npm/v/react-native?color=%232fa90f&label=react-native&style=plastic)
+![npm](https://img.shields.io/npm/dm/react-native-template-new-react-native-app?style=plastic)
+
 # About
 
 This is a template for creating a react-native (0.61.2) app including configuration for: redux, redux-saga, reactotron, react-navigation, react-native-gesture-handler, async-storage and styled-components.
